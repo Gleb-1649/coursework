@@ -1,0 +1,48 @@
+help
+info
+show
+add
+Иван Петров
+100
+60
+180
+75
+BLACK
+ITALY
+10.5
+20
+3.5
+Офис
+update 458932
+Николай Сидоров
+110
+55
+175
+70
+WHITE
+JAPAN
+12.0
+22
+2.0
+Квартира
+remove_by_id 872154
+clear
+save
+shuffle
+remove_lower
+Сергей Кузнецов
+150
+90
+185
+80
+BLACK
+VATICAN
+9.5
+18
+3.0
+Парковка
+sort
+count_less_than_location Дом
+print_ascending
+print_unique_eye_color
+exit
